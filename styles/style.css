@@ -59,3 +59,42 @@ li{
         align-items: center;
         justify-content: space-between;
     }
+    .mtavari:hover{
+        animation-delay: 0,5s;
+        animation-duration: 3s;
+        font-size: 15px;
+        color: red;
+    }
+    .chven:hover{
+        animation-delay: 0,5s;
+        animation-duration: 3s;
+        font-size: 15px;
+        color: red;
+
+    }
+    .servisebi:hover{
+        animation-delay: 0,5s;
+        animation-duration: 3s;
+        font-size: 15px;
+        color: red;
+        
+    }
+    .proeqti:hover{
+        animation-delay: 0,5s;
+        animation-duration: 3s;
+        font-size: 15px;
+        color: red;
+    }
+    .partniorebi:hover{
+        animation-delay: 0,5s;
+        animation-duration: 3s;
+        font-size: 15px;
+        color: red
+
+    }
+    .kontakti:hover{
+        animation-delay: 0,5s;
+        animation-duration: 3s;
+        font-size: 15px;
+        color: red
+    }
